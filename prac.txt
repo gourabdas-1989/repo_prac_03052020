@@ -1,1 +1,3 @@
-this is a prac file 
+this is a prac file
+
+getting deeper into Git tutorial
